@@ -9,6 +9,7 @@
 		<header>
 			<h1>Woodstock</h1>
 			<div>An Aquarian Exposition: 3 Days of Peace & Music</div>
+			<?php include "inc/nav.php"; ?>
 		</header>
 		<article>
 			<h2>Introduction</h2>

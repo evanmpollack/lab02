@@ -9,6 +9,7 @@
 		<header>
 			<h1>Metallica</h1>
 			<div>A band that played music.</div>
+			<?php include "inc/nav.php"; ?>
 		</header>
 		<article>
 			<h2>About Metallica</h2>
