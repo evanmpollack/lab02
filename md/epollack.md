@@ -1,7 +1,7 @@
-#Metallica
+# Metallica 
 A band that played music.
 
-##About Metallica
+## About Metallica
 
 ![Logo](http://csc174.org/lab02/ny/images/logo.png)
 *Band logo*
@@ -40,7 +40,7 @@ Metallica was inducted into the Rock and Roll Hall of Fame. The band wrote the
 screenplay for and starred in the 2013 IMAX concert film Metallica: Through the
 Never, in which the band performed live against a fictional thriller storyline.
 
-##Style and lyrical themes
+## Style and lyrical themes
 
 Metallica was influenced by early heavy metal and hard rock bands and artists Black
 Sabbath, Deep Purple, Kiss, Led Zeppelin, Queen, Ted Nugent, AC/DC, Rush,
@@ -85,7 +85,7 @@ to standard tuning and guitar solos. As a return to Metallica's thrash roots,
 Death Magnetic was a riff-oriented album featuring intense guitar solos and subtle
 lyrics dealing with suicide and redemption.
 
-##Legacy and influence
+## Legacy and influence
 
 ![Metallica on stage](http://csc174.org/lab02/ny/images/stage.jpg)
 *Metallica on stage*
@@ -127,12 +127,12 @@ and first year they were nominated. Metallica's induction into the Hall included
 its current lineup, James Hetfield, Kirk Hammett, Robert Trujillo, and Lars
 Ulrich, and former members Jason Newsted and Cliff Burton.
 
->##Albums and awards
+>## Albums and awards
 >Below are the studio albums, awards, and nominations Metallica recorded and
 received throughout their career. The studio albums are listed in chronological
 order from top to bottom.
 >
->###Studio Albums
+>### Studio Albums
 >- Kill 'Em All
 >- Ride the Lightning
 >- Master of Puppets
@@ -144,7 +144,7 @@ order from top to bottom.
 >- Death Magnetic
 >- Hardwired... to Self-Destruct
 >
->###Awards and nominations
+>### Awards and nominations
 >- 1990: Best Metal Performance – "One"
 >- 1991: Best Metal Performance – "Stone Cold Crazy"
 >- 1992: Best Metal Performance – Metallica
@@ -155,7 +155,7 @@ order from top to bottom.
 >- 2009: Best Metal Performance – "My Apocalypse"
 >- 2009: Best Recording Package – Death Magnetic
 
-##Citations
+## Citations
 - Pereira, Alyssa (August 12, 2016).
   ["Metallica's Black Album turns 25: Here's how local record stores reacted to its sales in 1991"](https://www.sfgate.com/music/article/Metallica-s-Black-Album-turns-25-9139432.php).
   San Francisco Chronicle. Retrieved April 20, 2018.
