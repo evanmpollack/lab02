@@ -28,7 +28,19 @@ One shape alone is normally reserved for a specific purpose: the **lozenge**, a 
 
 The whole surface of the escutcheon is termed the **field**, which may be plain, consisting of a single tincture, or divided into multiple sections of differing tinctures by various lines of partition; and any part of the field may be semé, or powdered with small charges. The edges and adjacent parts of the escutcheon are used to identify the placement of various heraldic charges; the upper edge, and the corresponding upper third of the shield, are referred to as the **chief**; the lower part is the **base**. The sides of the shield are known as the **dexter** and **sinister** flanks, although it is important to note that these terms are based on the point of view of the bearer of the shield, who would be standing behind it; accordingly the side which is to the bearer's right is the dexter, and the side to the bearer's left is the sinister, although to the observer, and in all heraldic illustration, the dexter is on the left side, and the sinister on the right.
 
-
+> ## Tinctures
+> **Tincture** is the limited palette of colours and patterns used in heraldry. The need to define, depict, and correctly blazon the various tinctures is one of the most important aspects of heraldic art and design. The colours and patterns of the heraldic palette are divided into three groups, usually known as metals, colours, and furs. Two more tinctures were eventually acknowledged by most heraldic authorities. These were termed "stains" by some of the more influential heraldic writers.
+> ### Metals & Furs ###
+> - Or
+> - Argent
+> - Ermine
+> - Vair
+> - Potent
+> - Plumeté
+> - Papelonné
+> - Kürsch
+> 
+> ### Colours & Stains ###
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYxNDMyNjE0LC0xODUxODE2MzM5XX0=
+eyJoaXN0b3J5IjpbMjAxODI5NTgzMSwtMTg1MTgxNjMzOV19
 -->
