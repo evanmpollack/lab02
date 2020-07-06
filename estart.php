@@ -26,7 +26,7 @@
 				longtime lead guitarist Kirk Hammett and bassist Robert Trujillo. Guitarist Dave
 				Mustaine (who went on to form Megadeth after being fired from the band) and
 				bassists Ron McGovney, Cliff Burton (who died in a bus accident in Sweden in 1986)
-			and Jason Newsted are former members of the band.</p>
+			    and Jason Newsted are former members of the band.</p>
 			<p>Metallica earned a growing fan base in the underground music community and won
 				critical acclaim with its first five albums. The band's third album, Master of
 				Puppets (1986), was described as one of the heaviest and most influential thrash
@@ -37,7 +37,7 @@
 				After experimenting with different genres and directions in subsequent releases,
 				the band returned to its thrash metal roots with the release of its ninth album,
 				Death Magnetic (2008), which drew similar praise to that of the band's earlier
-			albums.</p>
+			    albums.</p>
 			<p>In 2000, Metallica led the case against the peer-to-peer file sharing service
 				Napster, in which the band and several other artists filed lawsuits against the
 				service for sharing their copyright-protected material without consent; after
@@ -47,7 +47,7 @@
 				St. Anger (2003), and the internal struggles within the band at the time. In 2009,
 				Metallica was inducted into the Rock and Roll Hall of Fame. The band wrote the
 				screenplay for and starred in the 2013 IMAX concert film Metallica: Through the
-			Never, in which the band performed live against a fictional thriller storyline.</p>
+			    Never, in which the band performed live against a fictional thriller storyline.</p>
 			<h2>Style and lyrical themes</h2>
 			<p>Metallica was influenced by early heavy metal and hard rock bands and artists Black
 				Sabbath, Deep Purple, Kiss, Led Zeppelin, Queen, Ted Nugent, AC/DC, Rush,
@@ -62,7 +62,7 @@
 				to take on a more aggressive approach in following releases, and lyrics dealt with
 				personal and socially conscious issues. Religious and military leaders, rage,
 				insanity, monsters, and drugs—among other themes—were explored on Master of
-			Puppets .</p>
+			    Puppets.</p>
 			<p>In 1991, Huey said Metallica with new producer Bob Rock simplified and streamlined
 				its music for a more commercial approach to appeal to mainstream audiences. Robert
 				Palmer of Rolling Stone said the band abandoned its aggressive, fast tempos to
@@ -78,7 +78,7 @@
 				Rolling Stone described the move as "goodbye to the moldy stricture and dead-end
 				Puritanism of no-frills thrash", and called Load the heaviest record of 1996. With
 				the release of ReLoad in 1997, the band displayed blues and early hard rock
-			influences, incorporating more rhythm and harmony in song structures.</p>
+			    influences, incorporating more rhythm and harmony in song structures.</p>
 			<p>St. Anger marked another large change in the band's sound. Guitar solos were
 				excluded from the album, leaving a "raw and unpolished sound". The band used drop
 				C tuning; Ulrich's snare drum received particular criticism. New York Magazine's
@@ -88,7 +88,7 @@
 				producer Rick Rubin, for its ninth studio album Death Magnetic, the band returned
 				to standard tuning and guitar solos. As a return to Metallica's thrash roots,
 				Death Magnetic was a riff-oriented album featuring intense guitar solos and subtle
-			lyrics dealing with suicide and redemption.</p>
+			    lyrics dealing with suicide and redemption.</p>
 			<h2>Legacy and influence</h2>
 			<figure>
 				<img src="images/stage.jpg" alt="Metallica on stage">
@@ -104,7 +104,7 @@
 				of Allmusic said Metallica "expanded the limits of thrash, using speed and
 				volume not for their own sake, but to enhance their intricately structured
 				compositions", and called the band "easily the best, most influential heavy metal
-			band of the '80s, responsible for bringing the music back to Earth".</p>
+			    band of the '80s, responsible for bringing the music back to Earth".</p>
 			<p>Jonathan Davis of Korn said he respects Metallica as his favorite band; he said,
 				"I love that they've done things their own way and they've persevered over the
 				years and they're still relevant to this day. I think they're one of the greatest
@@ -122,12 +122,12 @@
 				by Metallica as they grew up, and the band's bassist John Outcalt admires Burton
 				as a "rocker". Ill Niño drummer Dave Chavarri said he finds early Metallica
 				releases are "heavy, raw, rebellious. It said, 'fuck you'", and Adema drummer
-			Kris Kohls said the band is influenced by Metallica.</p>
+			    Kris Kohls said the band is influenced by Metallica.</p>
 			<p>On April 4, 2009, Metallica were inducted into the Rock And Roll Hall Of Fame.
 				They entered the Rock and Roll Hall of Fame the second year they were eligible
 				and first year they were nominated. Metallica's induction into the Hall included
 				its current lineup, James Hetfield, Kirk Hammett, Robert Trujillo, and Lars
-			Ulrich, and former members Jason Newsted and Cliff Burton.</p>
+			    Ulrich, and former members Jason Newsted and Cliff Burton.</p>
 		</article>
 		<aside>
 			<h2>Albums and awards</h2>
