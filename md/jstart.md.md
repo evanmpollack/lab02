@@ -24,7 +24,11 @@ If the bearer is entitled to the ribbon, collar, or badge of a knightly order, i
 ## Shield (Escutcheon) ##
 The primary element of an heraldic achievement is the shield, or **escutcheon**, upon which the coat of arms is depicted. All of the other elements of an achievement are designed to decorate and complement these arms, but only the shield of arms is required. The shape of the shield, like many other details, is normally left to the discretion of the heraldic artist, and many different shapes have prevailed during different periods of heraldic design, and in different parts of Europe.
 
+One shape alone is normally reserved for a specific purpose: the **lozenge**, a diamond-shaped escutcheon, was traditionally used to display the arms of women, on the grounds that shields, as implements of war, were inappropriate for this purpose. This distinction was not always strictly adhered to, and a general exception was usually made for sovereigns, whose arms represented an entire nation. Sometimes an oval shield, or **cartouche**, was substituted for the lozenge; this shape was also widely used for the arms of clerics in French, Spanish, and Italian heraldry, although it was never reserved for their use.
+
+The whole surface of the escutcheon is termed the **field**, which may be plain, consisting of a single tincture, or divided into multiple sections of differing tinctures by various lines of partition; and any part of the field may be semé, or powdered with small charges. The edges and adjacent parts of the escutcheon are used to identify the placement of various heraldic charges; the upper edge, and the corresponding upper third of the shield, are referred to as the **chief**; the lower part is the **base**. The sides of the shield are known as the **dexter** and **sinister** flanks, although it is important to note that these terms are based on the point of view of the bearer of the shield, who would be standing behind it; accordingly the side which is to the bearer's right is the dexter, and the side to the bearer's left is the sinister, although to the observer, and in all heraldic illustration, the dexter is on the left side, and the sinister on the right.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0OTQ4Njg5NywtMTg1MTgxNjMzOV19
+eyJoaXN0b3J5IjpbOTYxNDMyNjE0LC0xODUxODE2MzM5XX0=
 -->
