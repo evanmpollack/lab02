@@ -1,7 +1,11 @@
-# Woodstock
+# **Woodstock**
 An Aquarian Exposition: 3 Days of Peace & Music
 
-## Introduction
+-   [Evan's Page](estart.php)
+-   [Jason's Page](jstart.php)
+-   [Michael's Page](mstart.php)
+
+## _Introduction_
 ![Woodstock Poster](http://csc174.org/lab02/ny/images/woodstock-poster.jpg "poster")  
 Promotional poster designed by Arnold Skolnick
 
@@ -9,7 +13,7 @@ Woodstock was a music festival held August 15–18, 1969, at Max Yasgur's 600-ac
 
 The festival has become widely regarded as a pivotal moment in popular music history, as well as a defining event for the "counterculture generation". The event's significance was reinforced by a 1970 documentary film, an accompanying soundtrack album, and a song written by Joni Mitchell that became major hits for Crosby, Stills, Nash & Young and Matthews Southern Comfort. Music events bearing the Woodstock name have been planned for anniversaries including the tenth, twentieth, twenty-fifth, thirtieth, fortieth, and fiftieth. In 2004, Rolling Stone magazine listed it as number 19 of the 50 Moments That Changed the History of Rock and Roll. In 2017, the festival site was listed on the National Register of Historic Places.
 
-## Planning and Preparation
+## _Planning and Preparation_
 Woodstock was initiated through the efforts of Michael Lang, Artie Kornfeld, Joel Rosenman, and John P. Roberts. Roberts and Rosenman financed the project. Lang had some experience as a promoter, having co-organized the Miami Pop Festival on the East Coast the prior year, where an estimated 25,000 people attended the two-day event.
 
 Early in 1969, Roberts and Rosenman were New York City entrepreneurs, in the process of building Media Sound, a large audio recording studio complex in Manhattan. Lang and Kornfeld's lawyer, Miles Lourie, who had done legal work on the Media Sound project, suggested that they contact Roberts and Rosenman about financing a similar, but much smaller, studio Kornfeld and Lang hoped to build in Woodstock, New York. Unpersuaded by this Studio-in-the-Woods proposal, Roberts and Rosenman counter-proposed a concert featuring the kind of artists known to frequent the Woodstock area (such as Bob Dylan and The Band). Kornfeld and Lang agreed to the new plan, and Woodstock Ventures was formed in January 1969. The company offices were located in an oddly decorated floor of 47 West 57th Street in Manhattan. Burt Cohen, and his design group, Curtain Call Productions, oversaw the psychedelic transformation of the office.
@@ -20,7 +24,7 @@ In April 1969, Creedence Clearwater Revival became the first act to sign a contr
 
 Woodstock was designed as a profit-making venture. It became a "free concert" only after the event drew hundreds of thousands more people than the organizers had prepared for. Tickets for the three-day event cost $18 in advance and $24 at the gate (equivalent to about $120 and $160 today). Ticket sales were limited to record stores in the greater New York City area, or by mail via a post office box at the Radio City Station Post Office located in Midtown Manhattan. Around 186,000 advance tickets were sold, and the organizers anticipated approximately 200,000 festival-goers would turn up.
 
-## Festival
+## _Festival_
 ![Woodstock Ad](http://csc174.org/lab02/ny/images/woodstock-ad.jpg)  
 Magazine advertisement promoting the Woodstock Music & Art Fair's "Aquarian Exposition," to be held in Wallkill, NY.
 
@@ -36,8 +40,8 @@ The festival was remarkably peaceful given the number of people and the conditio
 
 Max Yasgur owned the site of the event, and he spoke of how nearly half a million people spent the three days with music and peace on their minds. He stated, "If we join them, we can turn those adversities that are the problems of America today into a hope for a brighter and more peaceful future."
 
-## Performing Artists
-### Friday, August 15 – Saturday, August 16
+## _Performing Artists_
+### **Friday, August 15 – Saturday, August 16**
 5:07 pm – 7:00 pm | Richie Havens  
 Was moved up to the opening performance slot after Sweetwater were stopped by police en route to the festival and other artists were delayed on the freeway.
 
@@ -62,7 +66,7 @@ Sent onstage for an unscheduled performance after the Incredible String Band dec
 12:55 am – 2:00 am | Joan Baez  
 Was six months pregnant at the time.
 
-### Saturday, August 16 – Sunday, August 17
+### **Saturday, August 16 – Sunday, August 17**
 12:30 pm – 12:45 pm | Quill
 
 1:20 pm – 1:30 pm | Country Joe McDonald  
@@ -101,7 +105,7 @@ Briefly interrupted by Abbie Hoffman.
 8:00 am – 9:40 am | Jefferson Airplane  
 Joined onstage on piano by Nicky Hopkins.
 
-### Sunday, August 17 – Monday, August 18
+### **Sunday, August 17 – Monday, August 18**
 2:00 pm – 3:25 pm | Joe Cocker and The Grease Band  
 Played "With a Little Help From My Friends". After Joe Cocker's set, a thunderstorm disrupted the events for several hours.
 
@@ -128,10 +132,10 @@ An acoustic and electric set were played. Neil Young skipped most of the acousti
 9:00 am – 11:10 am | Jimi Hendrix / Gypsy Sun & Rainbows  
 Performed to a considerably smaller crowd of fewer than 200,000 people.
 
-## Citations
+## _Citations_
 -   [Collier, Barnard L. (August 18, 1969). "Tired Rock Fans Begin Exodus". The New York Times.](https://archive.nytimes.com/www.nytimes.com/learning/general/onthisday/big/0817.html)
 -   ["Woodstock". woodstock.com. Retrieved July 2, 2015.](https://www.woodstock.com/lineup/)
 -   [Magazine Ad From Ramparts magazine, vol. 8, no. 2 (Aug. 1969), pg. 70.](https://en.wikipedia.org/wiki/File:6908-woodstock-ad.jpg)
 
-## Source
+## _Source_
 [https://en.wikipedia.org/wiki/Woodstock](https://en.wikipedia.org/wiki/Woodstock)
