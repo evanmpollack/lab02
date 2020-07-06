@@ -30,6 +30,7 @@ The whole surface of the escutcheon is termed the **field**, which may be plain,
 
 > ## Tinctures
 > **Tincture** is the limited palette of colours and patterns used in heraldry. The need to define, depict, and correctly blazon the various tinctures is one of the most important aspects of heraldic art and design. The colours and patterns of the heraldic palette are divided into three groups, usually known as metals, colours, and furs. Two more tinctures were eventually acknowledged by most heraldic authorities. These were termed "stains" by some of the more influential heraldic writers.
+> 
 > ### Metals & Furs ###
 > - Or
 > - Argent
@@ -54,6 +55,12 @@ The whole surface of the escutcheon is termed the **field**, which may be plain,
 -   [Fox-Davies (1909), p. 1](https://archive.org/details/completeguidetoh00foxdrich)
 -   [Boutell (1890), p. 6](https://archive.org/details/heraldryancientm00boutrich)
 -   [Woodward & Burnett (1892), pp. 54–58](https://archive.org/details/treatiseonherald00wooduoft)
+
+## Source
+-   [Wikipedia Heraldry](https://en.wikipedia.org/wiki/Heraldry)
+-   [Wikipedia Tincture (heraldry)](https://en.wikipedia.org/wiki/Tincture_(heraldry))
+-   [Wikipedia File:Thomas Hawley Clarenceux King of Arms.jpg](https://en.wikipedia.org/wiki/File:Thomas_Hawley_Clarenceux_King_of_Arms.jpg)
+-   [Wikipedia File:Elementy herbu mod.jpg](https://en.wikipedia.org/wiki/File:Elementy_herbu_mod.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAxNDM0NjYyLC0xODUxODE2MzM5XX0=
+eyJoaXN0b3J5IjpbMTg1ODAzNzI3NywtMTg1MTgxNjMzOV19
 -->
