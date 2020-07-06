@@ -41,6 +41,19 @@ The whole surface of the escutcheon is termed the **field**, which may be plain,
 > - Kürsch
 > 
 > ### Colours & Stains ###
+> - Gules
+> - Sable
+> - Azure
+> - Vert
+> - Purpure
+> - Sanguine
+> - Murrey
+> - Tenné
+
+## Citations ##
+-   [Fox-Davies (1909), p. 1](https://archive.org/details/completeguidetoh00foxdrich)
+-   [Boutell (1890), p. 6](https://archive.org/details/heraldryancientm00boutrich)
+-   [Woodward & Burnett (1892), pp. 54–58](https://archive.org/details/treatiseonherald00wooduoft)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODI5NTgzMSwtMTg1MTgxNjMzOV19
+eyJoaXN0b3J5IjpbMzAxNDM0NjYyLC0xODUxODE2MzM5XX0=
 -->
