@@ -61,6 +61,3 @@ The whole surface of the escutcheon is termed the **field**, which may be plain,
 -   [Wikipedia Tincture (heraldry)](https://en.wikipedia.org/wiki/Tincture_(heraldry))
 -   [Wikipedia File:Thomas Hawley Clarenceux King of Arms.jpg](https://en.wikipedia.org/wiki/File:Thomas_Hawley_Clarenceux_King_of_Arms.jpg)
 -   [Wikipedia File:Elementy herbu mod.jpg](https://en.wikipedia.org/wiki/File:Elementy_herbu_mod.jpg)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1ODAzNzI3N119
--->
