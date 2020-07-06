@@ -15,7 +15,16 @@ The beauty and pageantry of heraldic designs allowed them to survive the gradual
 ![A blank coat of arms, with all elements of an achievement present.](http://csc174.org/lab02/ny/images/shield.png)
 *Diagram of a heraldic achievement*
 
-A heraldic **achievement** consists of a shield of arms the <strong>coat of arms</strong>, or simply coat, together with all of its accompanying elements, such as a crest, supporters, and other heraldic embellishments. The term "coat of arms" technically refers to the shield of arms itself, but the phrase is commonly used to refer to the entire achievement. The one indispensable element of a coat of arms is the shield; many ancient coats of arms consist of nothing else, but no achievement or armorial bearings exists without a coat of arms.
+A heraldic **achievement** consists of a shield of arms the **coat of arms**, or simply coat, together with all of its accompanying elements, such as a crest, supporters, and other heraldic embellishments. The term "coat of arms" technically refers to the shield of arms itself, but the phrase is commonly used to refer to the entire achievement. The one indispensable element of a coat of arms is the shield; many ancient coats of arms consist of nothing else, but no achievement or armorial bearings exists without a coat of arms.
+
+From a very early date, illustrations of arms were frequently embellished with helmets placed above the shields. These in turn came to be decorated with fan-shaped or sculptural crests, often incorporating elements from the shield of arms; as well as a wreath or torse, or sometimes a coronet, from which depended the lambrequin or mantling. To these elements, modern heraldry often adds a **motto** displayed on a ribbon, typically below the shield.
+
+If the bearer is entitled to the ribbon, collar, or badge of a knightly order, it may encircle or depend from the shield. Some arms, particularly those of the nobility, are further embellished with **supporters**, heraldic figures standing alongside or behind the shield; often these stand on a **compartment**, typically a mound of earth and grass, on which other badges, symbols, or heraldic banners may be displayed.
+
+## Shield (Escutcheon) ##
+The primary element of an heraldic achievement is the shield, or **escutcheon**, upon which the coat of arms is depicted. All of the other elements of an achievement are designed to decorate and complement these arms, but only the shield of arms is required. The shape of the shield, like many other details, is normally left to the discretion of the heraldic artist, and many different shapes have prevailed during different periods of heraldic design, and in different parts of Europe.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNTMyNzI4NywtMTg1MTgxNjMzOV19
+eyJoaXN0b3J5IjpbLTg0OTQ4Njg5NywtMTg1MTgxNjMzOV19
 -->
